@@ -1,0 +1,7 @@
+WARNING!!! Unauthorized access detected!
+--- ALERT LEVEL: HIGH ---
+* Attempted access from IP: 192.168.0.1
+* Date: 03-Nov-2024
+* Location: Unknown
+Immediate action required!
+java

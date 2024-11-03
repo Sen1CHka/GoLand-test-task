@@ -1,0 +1,10 @@
+EVENT SCHEDULE:
+-----------------------
+1. Opening Ceremony 🎉 - 09:00 AM
+2. Keynote Speech - 10:30 AM
+3. Lunch Break 🍴 - 12:00 PM
+4. Workshop: "Innovation & Tech" - 1:30 PM
+5. Closing Remarks - 4:00 PM
+Location: Hall A, 2nd Floor
+Contact: +1 (555) 123-4567
+java

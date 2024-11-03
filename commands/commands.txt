@@ -1,0 +1,10 @@
+List of commands :
+ - file <filePath> <word> : index file and return true if file contains word
+ - file <filePath> : index file
+ - dir <dirPath> <word> : index all files in current directory return set of files which contains word
+ - dir <dirPath> : index all files in current directory
+ - allDir <dirPath> <word> : index recursively all directories and files in current directory and return set of files which contains word
+ - allDir <dirPath> : index recursively all directories and files in current directory
+ - word <word> : return all previous files containing word
+ - exit : exit the program
+ - commands : print commands

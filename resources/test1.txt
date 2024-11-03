@@ -1,0 +1,13 @@
+Hello, world! Welcome to the 2024 Java Programming Class:
+- Learn how to code in Java.
+- Master object-oriented programming (OOP).
+- Build amazing applications: mobile, web, and desktop!
+
+Key points:
+1. Java is versatile & powerful.
+2. Syntax is easy to learn.
+3. Regular expressions (e.g., [^a-zA-Z]) can be very useful.
+
+Here are some numbers: 42, 3.14, and 1001.
+Don’t forget to check: https://www.example.com for more resources!
+java
