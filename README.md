@@ -1,0 +1,5 @@
+- Indexes all `.txt` files in the specified directory.
+- Checks for previously indexed files to avoid re-indexing.
+- Simple command line interface for user interaction.
+- All of available commands is in commands\commands.txt
+- To start program run FileIndexerApp main()
